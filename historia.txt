@@ -6,3 +6,6 @@ hoy es jueves
 ya es sábado y probamos corrección de errores
 master 2
 obra y arte
+Datos importantes:
+$ alias arbolito="$ git log --all --graph --decorate --oneline"
+o gitk
