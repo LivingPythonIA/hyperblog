@@ -9,3 +9,4 @@ obra y arte
 Datos importantes:
 $ alias arbolito="$ git log --all --graph --decorate --oneline"
 o gitk
+si quisiera agregar nuevo de forma temporal git stash
